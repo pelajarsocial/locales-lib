@@ -1729,7 +1729,7 @@ $Definition['Undo Follow'] = 'Batalkan Mengikut';
 $Definition['Unfollow'] = 'Tidak ikut';
 $Definition['Unhide'] = 'Tidak sembunyikan';
 $Definition['Unignore'] = 'Stop Abaikan';
-$Definition['UniqueID'] = 'UniqueID';
+$Definition['UniqueID'] = 'ID Unik';
 $Definition['Unknown'] = 'Tidak diketahui';
 $Definition['unknown'] = 'tidak diketahui';
 $Definition['Unknown client: %s.'] = 'Klien tidak dikenal: %s.';
@@ -2073,7 +2073,7 @@ $Definition['Format as blockquote'] = 'Format sebagai blok kutipan';
 $Definition['Format as code block'] = 'Format sebagai blok kode';
 $Definition['Spoiler'] = 'Pengganggu';
 $Definition['Format as spoiler'] = 'Format sebagai beberan';
-$Definition['Inline Menu Available'] = 'Menu Inline Tersedia';
+$Definition['Inline Menu Available'] = 'Menu Dibaris Tersedia';
 
 // Emoji Picker
 $Definition['Emoji'] = 'Emoji';
@@ -2092,7 +2092,7 @@ $Definition['Travel & Places'] = 'Wisata & Lokasi';
 $Definition['Activities'] = 'Aktivitas';
 $Definition['Objects'] = 'Objek';
 $Definition['Symbols'] = 'Simbol';
-$Definition['Flags'] = 'Bendera';
+$Definition['Flags'] = 'Laporkan';
 
 // Media Insertion
 $Definition['Image'] = 'Gambar';
@@ -2102,7 +2102,7 @@ $Definition['Embed'] = 'Disematkan';
 $Definition['Error'] = 'Galat';
 
 // Quotes/Formats
-$Definition['Toggle Quote'] = 'Toggle Kutipan';
+$Definition['Toggle Quote'] = 'Ganti Kutipan';
 $Definition['Spoiler Warning'] = 'Peringatan Beberan';
 
 // Image Size & placement
@@ -2110,11 +2110,11 @@ $Definition['Float left'] = 'Mengambang ke kiri';
 $Definition['Centered'] = 'Terpusat';
 $Definition['Float right'] = 'Mengambang ke kanan';
 $Definition['Small'] = 'Kecil';
-$Definition['Medium'] = 'Medium';
+$Definition['Medium'] = 'Sedang';
 $Definition['Large'] = 'Besar';
 
 // Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Placeholder';
+$Definition['Placeholder'] = 'Tempat Menampung';
 
 // Accessibility
 $Definition['%s for discussion: "%s"'] = '%s untuk diskusi: "%s"';
