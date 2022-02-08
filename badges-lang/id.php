@@ -89,48 +89,48 @@ $Definition['Yaga.Badges.Settings.Desc'] = 'Anda dapat mengelola lencana yang te
 $Definition['Yaga.Badges.Use'] = 'Gunakan Badges';
 
 // Best Content
-$Definition['Yaga.BestContent'] = 'Best Of...';
-$Definition['Yaga.BestContent.Action'] = 'Best %s Content';
-$Definition['Yaga.BestContent.AllTime'] = 'Best Content of All Time';
-$Definition['Yaga.BestContent.Recent'] = 'Best Recent Content';
-$Definition['Yaga.BestContent.MinPoints'] = 'Minimum amount of points needed for "Best Of..."';
+$Definition['Yaga.BestContent'] = 'Terbaik...';
+$Definition['Yaga.BestContent.Action'] = 'Konten %s Terbaik';
+$Definition['Yaga.BestContent.AllTime'] = 'Konten Terbaik Sepanjang masa';
+$Definition['Yaga.BestContent.Recent'] = 'Konten Terbaru Terbaik';
+$Definition['Yaga.BestContent.MinPoints'] = 'Jumlah minimum poin yang dibutuhkan untuk "Terbaik.."';
 
 // Errors
-$Definition['Yaga.Error.AddFile'] ='Unable to add file: %s';
-$Definition['Yaga.Error.ArchiveChecksum'] = 'Archive appears to be corrupt: Checksum is invalid.';
-$Definition['Yaga.Error.ArchiveCreate'] = 'Unable to create archive: %s';
-$Definition['Yaga.Error.ArchiveExtract'] = 'Unable to extract file.';
-$Definition['Yaga.Error.ArchiveOpen'] = 'Unable to open archive.';
-$Definition['Yaga.Error.ArchiveSave'] = 'Unable to save archive: %s';
-$Definition['Yaga.Error.DeleteFailed'] = 'Failed to delete %s';
-$Definition['Yaga.Error.FileDNE'] = 'File does not exist.';
-$Definition['Yaga.Error.Includes'] = 'You must select at least one item to transport.';
-$Definition['Yaga.Error.NeedJS'] = 'That must be done via Javascript';
-$Definition['Yaga.Error.NoActions'] = 'There are no reactions defined.';
-$Definition['Yaga.Error.NoBadges'] = 'You cannot award badges without any badges defined.';
-$Definition['Yaga.Error.NoRanks'] = 'You cannot promote users without any ranks defined.';
-$Definition['Yaga.Error.NoRules'] = 'You cannot add or edit badges without rules!';
-$Definition['Yaga.Error.ReactToOwn'] = 'You cannot react to your own content.';
-$Definition['Yaga.Error.Rule404'] = 'Rule not found.';
-$Definition['Yaga.Error.TransportCopy'] = 'Unable to copy image files.';
-$Definition['Yaga.Error.TransportRequirements'] = 'You do not seem to have the minimum requirements to transport a Yaga configuration automatically. Please reference manual_transport.md for more information.';
+$Definition['Yaga.Error.AddFile'] ='Tidak bisa menambahkan file: %s';
+$Definition['Yaga.Error.ArchiveChecksum'] = 'Arsip tampaknya rusak: Checksum tidak valid.';
+$Definition['Yaga.Error.ArchiveCreate'] = 'Tidak bisa membuat Arsip: %s';
+$Definition['Yaga.Error.ArchiveExtract'] = 'Tidak dapat mengekstrak file.';
+$Definition['Yaga.Error.ArchiveOpen'] = 'Tidak bisa membuka Arsip.';
+$Definition['Yaga.Error.ArchiveSave'] = 'Tidak bisa menyimpan arsip: %s';
+$Definition['Yaga.Error.DeleteFailed'] = 'Gagal menghapus %s';
+$Definition['Yaga.Error.FileDNE'] = 'File tidak ditemukan.';
+$Definition['Yaga.Error.Includes'] = 'Anda harus memilih setidaknya satu item untuk diangkut.';
+$Definition['Yaga.Error.NeedJS'] = 'Itu harus dilakukan melalui Javascript';
+$Definition['Yaga.Error.NoActions'] = 'Tidak ada reaksi yang ditentukan.';
+$Definition['Yaga.Error.NoBadges'] = 'Anda tidak dapat memberikan Badges tanpa Badges apa pun yang ditentukan.';
+$Definition['Yaga.Error.NoRanks'] = 'Anda tidak dapat memberikan Ranks tanpa Ranks apa pun yang ditentukan.';
+$Definition['Yaga.Error.NoRules'] = 'Anda tidak dapat menambah atau mengedit lencana tanpa aturan!';
+$Definition['Yaga.Error.ReactToOwn'] = 'Anda tidak dapat bereaksi terhadap konten Anda sendiri.';
+$Definition['Yaga.Error.Rule404'] = 'Aturan tidak ditemukan.';
+$Definition['Yaga.Error.TransportCopy'] = 'Tidak dapat menyalin file gambar.';
+$Definition['Yaga.Error.TransportRequirements'] = 'Anda tampaknya tidak memiliki persyaratan minimum untuk mengangkut konfigurasi secara otomatis. Silakan merujuk manual_transport.md untuk informasi lebih lanjut.';
 
 // Leader Board
-$Definition['Yaga.LeaderBoard.AllTime'] = 'All Time Leaders';
-$Definition['Yaga.LeaderBoard.Max'] = 'Maximum number of leaders to show';
-$Definition['Yaga.LeaderBoard.Month'] = "This Month's Leaders";
-$Definition['Yaga.LeaderBoard.Use'] = 'Show leaderboard on activity page';
-$Definition['Yaga.LeaderBoard.Week'] = "This Week's Leaders";
-$Definition['Yaga.LeaderBoard.Year'] = "This Years's Leaders";
+$Definition['Yaga.LeaderBoard.AllTime'] = 'Leader Sepanjang Masa';
+$Definition['Yaga.LeaderBoard.Max'] = 'Jumlah maksimum leader untuk ditampilkan';
+$Definition['Yaga.LeaderBoard.Month'] = "Leader bulan ini";
+$Definition['Yaga.LeaderBoard.Use'] = 'Tampilkan papan peringkat di halaman aktivitas';
+$Definition['Yaga.LeaderBoard.Week'] = "Leader minggu ini";
+$Definition['Yaga.LeaderBoard.Year'] = "Leader Tahun ini";
 
 // Perks
-$Definition['Yaga.Perks'] = 'Perks';
-$Definition['Yaga.Perks.Curation'] = 'Content Curation';
+$Definition['Yaga.Perks'] = 'Keutungan';
+$Definition['Yaga.Perks.Curation'] = 'Kurasi Konten';
 $Definition['Yaga.Perks.EditTimeout'] = 'Edit Timeout';
-$Definition['Yaga.Perks.Emoticons'] = 'Format Emoticons';
-$Definition['Yaga.Perks.MeActions'] = 'Format /me Actions';
-$Definition['Yaga.Perks.Signatures'] = 'Edit Signature';
-$Definition['Yaga.Perks.Tags'] = 'Add Tags';
+$Definition['Yaga.Perks.Emoticons'] = 'Format Emoticon';
+$Definition['Yaga.Perks.MeActions'] = 'Format /me Tindakan';
+$Definition['Yaga.Perks.Signatures'] = 'Edit tanda tangan';
+$Definition['Yaga.Perks.Tags'] = 'Tambahkan Tags';
 
 // Ranks
 $Definition['Yaga.Rank'] = 'Rank';
