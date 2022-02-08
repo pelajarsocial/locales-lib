@@ -1595,7 +1595,7 @@ pengumpulan tidak dibenarkan pada komunitas ini.
 Kami memiliki hak untuk menghapus konten apapun untuk alasan tertentu atau tanpa alasan sama sekali
 Kami memiliki hak untuk menghentikan keanggotaan apapun untuk alasan tertentu atau
 tanpa alasan sama sekali.
-Anda setidaknya harus berumur minimal 13 tahun untuk menggunakan layanan ini.';
+Anda setidaknya harus berumur minimal 8 tahun untuk menggunakan layanan ini.';
 $Definition['Test'] = 'Tes';
 $Definition['Testing'] = 'Pengujian';
 $Definition['Text'] = 'Teks';
